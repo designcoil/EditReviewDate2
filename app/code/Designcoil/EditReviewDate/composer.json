@@ -1,0 +1,15 @@
+{
+    "name": "designcoil/module-editreviewdate",
+    "description": "Edit review date",
+    "type": "magento2-module",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Designcoil\\EditReviewDate\\": ""
+        }
+    }
+}
