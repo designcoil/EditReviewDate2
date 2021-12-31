@@ -8,5 +8,7 @@ Magento 2.2, 2.3, 2.4
 Upload all files to your Magento root directory. Run the following commands:
 
 php bin/magento setup:upgrade
+
 php bin/magento setup:di:compile
+
 php bin/magento setup:static-content:deploy
